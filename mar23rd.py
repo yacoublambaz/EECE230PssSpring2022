@@ -180,7 +180,7 @@ def similar(L1,L2):
     def count(L):
         #returns which elements are in L and how many?
         d = {} #initialize dictionary
-        for letter in s:
+        for letter in L:
             if letter not in d: #is the letter not in the dic yet?
                 d[letter] = 1 #If yes, put it with value 1
             else: #Is the letter in the dic?
