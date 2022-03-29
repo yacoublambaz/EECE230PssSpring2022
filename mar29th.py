@@ -61,7 +61,7 @@ def maxLenOfLShape(M):
                 currMax = max(currMax,  trav)
     return currMax
 
-def maxLenOfLShapeDynamicProgramming(L):
+def maxLenOfLShapeDynamicProgramming(M):
     """
     The idea of Dynamic Programming is to find relationships between elements
     In our case, L[i][j] is going to be L[i+1][j] + L[i][j+1]. How can we construct?
