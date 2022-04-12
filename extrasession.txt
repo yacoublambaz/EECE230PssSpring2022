@@ -1,0 +1,57 @@
+1. Do not rely on AUB to learn!!!!!!
+
+2. "It's okay if you don't know. If you can't figure it out, you're fired."
+
+
+1. What next?
+1.a) Skills you can (should) learn
+
+1.b) How to be a good interviewee
+
+
+How websites are called
+
+1. User (me) open toyota.com
+2. Provider sends me toyota.com's document
+3. The backend basically functions as the brain of the websites
+
+
+DoS (Syn Flooding)
+1. Three-way handshake
+Yacoub -> Facebook.com
+1) hey facebook I wanna connect to you
+2) Okay yacoub I accept you connecting to me
+3) Okay facebook, thank you for accepting, khod hay el data
+
+
+What to pick?
+
+Web development
+Level 0:
+FE: HTML CSS JS
+BE: Python library called Django
+DB: Nothing
+
+Level 1:
+FE: HTML CSS JS
+BE: Python library called Django
+DB: MySQL + Postgres
+You should also learn how to host on Heroku
+
+Level 2:
+FE: JS Frameworks (React JS)
+BE: Python library called Django-REST
+DB: MySQL + Postgres
+You should also learn how to host REST application
+
+What next?
+Learn two more backend technologies
+1. Java (Spring Boot)
+2. Ruby (Ruby on Rails)
+
+__________________
+
+1. Have a virtual machine with Linux operating in it
+2. To start with Level 0: Dennis Ivy Customer Management App (First Half)
+3. Level 1: Second half
+4. Level 2: Django & react - tech with tim
