@@ -123,7 +123,7 @@ def generateAll(n):
     return ans
 
 def generateAll(n):
-    #faster, using memoized enumeration
+    #fastest, using memoized enumeration
     def mem(n,L):
         if n == 1:
             return []
